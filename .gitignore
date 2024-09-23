@@ -1,0 +1,7 @@
+__pycache__/
+.venv
+actions
+.pytest_cache
+.DS_Store
+misc.py
+misc.md

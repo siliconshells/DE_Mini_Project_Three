@@ -1,0 +1,9 @@
+polars==1.7.1
+matplotlib==3.9.2
+black==22.3.0
+pytest==7.4.0
+pylint==2.15.3
+#The 3 below are just to create summaries markdown with CI/CD from Polars
+pyarrow==17.0.0 
+pandas==2.2.2 
+tabulate==0.9.0
